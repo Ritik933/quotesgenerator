@@ -18,6 +18,9 @@ const arrayOfQuotes = [
     {'author': 'Elbert Hubbard', 
      'quote': 'Do not take life too seriously. You will not get out alive.'
     },
+      {'author': 'John Lennon', 
+     'quote': '“Life is what happens when you’re busy making other plans.”.'
+    },
 ];
 
 function generateQuote(){
